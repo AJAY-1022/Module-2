@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python program to compute the power of a given number using an appropriate built-in function.
 
 ---
