@@ -1,7 +1,7 @@
 # Exp.No:2b  
 ## FUNCTIONS - PERFECT NUMBER
 
-### AIM  
+### AIM : 
 To write a Python program to check if a number is a Perfect number using the concept of functions.
 
 ---
