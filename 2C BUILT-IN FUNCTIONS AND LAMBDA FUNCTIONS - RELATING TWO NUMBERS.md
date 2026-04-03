@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
 
 ---
