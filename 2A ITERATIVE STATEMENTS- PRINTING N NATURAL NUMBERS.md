@@ -1,7 +1,7 @@
 # Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
-###  Aim
+###  Aim :
 To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ---
