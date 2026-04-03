@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM  :
 To write a Python program to print a triangular star pattern using loops.
 
 ---
